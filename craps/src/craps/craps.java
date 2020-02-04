@@ -7,6 +7,7 @@ public class craps
 		static String fake;
 		public static void main(String[] args)
 			{
+				//hello 
 				boolean restart=true;
 				System.out.println("Welcome to my Casino, press enter to contine.");
 					while(restart)
